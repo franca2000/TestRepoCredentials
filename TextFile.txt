@@ -1,1 +1,1 @@
-This is a text file for creating Git Credentials
+This is a text file for creating Git Credentials = 2nd Method
